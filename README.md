@@ -13,7 +13,7 @@ The ship starts tilted at 50 degrees and uses a PID controller to level itself b
 - **simulation class**: runs the control loop, splits the PID output into left/right thrust, and visualizes it with turtle graphics
 - Final result plotted with matplotlib
 
-## Key Concepts Learned
+## Key Concepts
 
 - Moment of Inertia (rotational equivalent of mass)
 - Torque (rotational equivalent of force)
